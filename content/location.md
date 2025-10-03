@@ -1,8 +1,8 @@
 ---
 title: "Location"
-date: 2024-05-08
+date: 2024-10-03
 hidemeta: true
-description: "Professor Dr von Igelfeld's mailing and office addresses at the Institute of Romance Philology."
+description: "Junjie Luo's office address at Johns Hopkins School of Medicine."
 
 ---
 
@@ -10,24 +10,24 @@ description: "Professor Dr von Igelfeld's mailing and office addresses at the In
 
 #### Mailing address
 
-Professor Dr von Igelfeld  
-Institute of Romance Philology  
-University of Regensburg  
-Regensburg, Germany
+Junjie Luo
+Biomedical Informatics & Data Science
+School of Medicine
+Johns Hopkins University
+Baltimore, MD 21205
 
 ---
 
-#### Office address
+#### Contact
 
-Room 133  
-Institute of Romance Philology  
-University of Regensburg
+Email: jluo41@jhu.edu
+Phone: +1 240 524 3597
 
 ---
 
 #### Office location
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10470.896334563153!2d12.085487114429176!3d48.99680799095555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479fc1126394f30f%3A0xb4c5000594ee5334!2sUniversity%20of%20Regensburg!5e0!3m2!1sen!2sus!4v1714871932562!5m2!1sen!2sus" 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3087.4929573828657!2d-76.59532668464877!3d39.29791597951636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c804c4e4cc4e0d%3A0x8e0f2d5b5e0d5d5d!2sJohns%20Hopkins%20School%20of%20Medicine!5e0!3m2!1sen!2sus!4v1696348800000!5m2!1sen!2sus"
 width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 

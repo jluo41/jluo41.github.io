@@ -1,0 +1,44 @@
+/* Import elegant fonts from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap');
+
+/* Make profile image rectangular instead of circular */
+.profile img {
+    border-radius: 8px !important;
+}
+
+/* Apply elegant fonts */
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif !important;
+    font-weight: 400;
+    letter-spacing: 0.01em;
+}
+
+/* Elegant font for name/title */
+.profile .profile_inner h1,
+.profile_inner h1,
+h1, h2, h3 {
+    font-family: 'Playfair Display', Georgia, serif !important;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+}
+
+/* Slightly lighter weight for subtitle */
+.profile .profile_inner .subtitle {
+    font-family: 'Inter', sans-serif !important;
+    font-weight: 400;
+    line-height: 1.6;
+    letter-spacing: 0.01em;
+}
+
+/* Button styling */
+.profile .profile_inner .buttons a {
+    font-family: 'Inter', sans-serif !important;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+}
+
+/* Make social icons smaller */
+.social-icons a svg {
+    height: 20px !important;
+    width: 20px !important;
+}
