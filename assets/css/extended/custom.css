@@ -1,6 +1,29 @@
 /* Import elegant fonts from Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap');
 
+/* Change background color */
+body {
+    background-color: #e8f4f8 !important;
+}
+
+.main {
+    background-color: #e8f4f8 !important;
+}
+
+.post-content, .profile, article {
+    background-color: #e8f4f8 !important;
+}
+
+footer {
+    background-color: #e8f4f8 !important;
+}
+
+/* Navigation bar color - white/very light for clean professional look */
+nav {
+    background-color: #f5f9fa !important;
+    border-bottom: 1px solid #d0e8f0 !important;
+}
+
 /* Make profile image rectangular instead of circular */
 .profile img {
     border-radius: 8px !important;
