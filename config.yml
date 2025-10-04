@@ -57,8 +57,8 @@ params:
           title: Junjie Luo
           subtitle: "I am a PhD candidate in Health Science Informatics at Johns Hopkins School of Medicine. My research focuses on designing and developing healthcare AI using real-world data, with special emphasis on human factors and behaviors to enhance health and wellness. My work spans foundation models for healthcare, natural language processing of clinical text, and multi-modal sensor data modeling."
           imageUrl: "picture.jpeg"
-          imageWidth: 440
-          imageHeight: 300
+          imageWidth: 352
+          imageHeight: 240
           buttons:
             - name: About
               url: about/
