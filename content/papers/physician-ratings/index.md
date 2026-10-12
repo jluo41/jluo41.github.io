@@ -1,5 +1,5 @@
 ---
-title: "Recency in Online Physician Ratings"
+title: "Recency of Online Physician Ratings"
 date: 2022-11-01
 tags: ["healthcare","online reviews","physician ratings","behavioral bias"]
 author: ["Weiguang Wang","Junjie Luo","Michelle Dugas","Guodong (Gordon) Gao","Ritu Agarwal","Rachel Werner"]
@@ -10,7 +10,7 @@ cover:
     alt: "Online Physician Ratings"
     relative: true
 editPost:
-    URL: "https://jamanetwork.com/journals/jamainternalmedicine"
+    URL: "https://doi.org/10.1001/jamainternmed.2022.2273"
     Text: "JAMA Internal Medicine"
 
 ---
@@ -19,7 +19,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](https://jamanetwork.com/journals/jamainternalmedicine)
++ [Paper](https://doi.org/10.1001/jamainternmed.2022.2273)
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "A large sensor foundation model pretrained on continuous glucose monitor data for diabetes management"
-date: 2025-01-01
+date: 2025-09-16
 tags: ["foundation model","healthcare","diabetes","deep learning","transformer","CGM","sensor data"]
 author: ["Junjie Luo","Abhimanyu Kumbara","Mansur Shomali","Rui Han","Anand Iyer","Grazia Aleppo","Ritu Agarwal","Guodong (Gordon) Gao"]
 description: "A large sensor foundation model pretrained on continuous glucose monitor data for diabetes management. Published in npj Health Systems, 2025."
@@ -10,7 +10,7 @@ cover:
     alt: "Large Sensor Foundation Model"
     relative: true
 editPost:
-    URL: "https://www.nature.com/articles/s44326-024-00055-x"
+    URL: "https://doi.org/10.1038/s44401-025-00039-y"
     Text: "npj Health Systems"
 
 ---
@@ -19,13 +19,13 @@ editPost:
 
 ##### Download
 
-+ [Paper](https://www.nature.com/articles/s44326-024-00055-x)
++ [Paper](https://doi.org/10.1038/s44401-025-00039-y)
 
 ---
 
 ##### Abstract
 
-This paper introduces a large sensor foundation model pretrained on continuous glucose monitoring (CGM) data for diabetes management. The model leverages transformer architecture and is trained on extensive real-world CGM data to learn generalizable representations of glucose dynamics. The foundation model demonstrates strong performance across multiple diabetes management tasks including glucose prediction at different time horizons, hypoglycemia and hyperglycemia risk assessment, and patient stratification. This work represents a significant advance in applying foundation model approaches to physiological sensor data for healthcare applications.
+Continuous glucose monitoring (CGM) combined with AI offers new opportunities for proactive diabetes management through real-time glucose forecasting. However, most existing models are task-specific and lack generalization across patient populations. Inspired by the autoregressive paradigm of large language models, we introduce CGM-LSM, a Transformer decoder-based Large Sensor Model (LSM) pretrained on 1.6 million CGM records from patients with different diabetes types, ages, and genders. We model patients as sequences of glucose time steps to learn latent knowledge embedded in CGM data and apply it to the prediction of glucose readings for a 2-h horizon. Compared with prior methods, CGM-LSM significantly improves prediction accuracy and robustness: a 48.51% reduction in root mean square error in 1-h horizon forecasting and consistent zero-shot prediction performance across held-out patient groups. We analyze model performance variations across patient subgroups and prediction scenarios and outline key opportunities and challenges for advancing CGM foundation models.
 
 ---
 

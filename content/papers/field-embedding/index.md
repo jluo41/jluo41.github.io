@@ -10,7 +10,7 @@ cover:
     alt: "Field Embedding Framework"
     relative: true
 editPost:
-    URL: "https://aclanthology.org/"
+    URL: "https://doi.org/10.18653/v1/2021.naacl-main.140"
     Text: "North American Association for Computational Linguistics"
 
 ---
@@ -19,7 +19,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](https://aclanthology.org/)
++ [Paper](https://doi.org/10.18653/v1/2021.naacl-main.140)
 
 ---
 
