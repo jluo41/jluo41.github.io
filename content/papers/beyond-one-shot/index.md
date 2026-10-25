@@ -3,7 +3,7 @@ title: "Beyond One-shot: AI Agents for Learning in Field Experiments"
 date: 2026-06-01
 tags: ["AI agents","field experiments","healthcare","patient messaging","LLM"]
 author: ["Junjie Luo","Ritu Agarwal","Guodong (Gordon) Gao"]
-description: "Beyond One-shot: AI Agents for Learning in Field Experiments. arXiv preprint, 2026."
+description: "Beyond One-shot: AI Agents for Learning in Field Experiments. Reject and resubmit at Management Science, 2026; arXiv preprint."
 summary: "Organizations routinely run experiments for A/B testing, yet the data generated from one experiment is underutilized to inform subsequent intervention design."
 cover:
     image: ""
@@ -11,7 +11,7 @@ cover:
     relative: true
 editPost:
     URL: "https://arxiv.org/abs/2606.02458"
-    Text: "arXiv preprint"
+    Text: "Reject and resubmit at Management Science; arXiv preprint"
 
 ---
 
@@ -31,7 +31,7 @@ Organizations routinely run experiments for A/B testing, yet the data generated 
 
 ##### Citation
 
-Luo, Junjie, Ritu Agarwal, and Guodong (Gordon) Gao. 2026. "Beyond One-shot: AI Agents for Learning in Field Experiments." *arXiv preprint* arXiv:2606.02458.
+Luo, Junjie, Ritu Agarwal, and Guodong (Gordon) Gao. 2026. "Beyond One-shot: AI Agents for Learning in Field Experiments." *arXiv preprint* arXiv:2606.02458. Reject and resubmit at *Management Science* (2026).
 
 ```BibTeX
 @article{luo2026beyond,
